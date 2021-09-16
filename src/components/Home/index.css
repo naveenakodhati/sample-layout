@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.main-home-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 80vh;
+  padding-top: 60px;
+}
+.home-image {
+  height: 150px;
+  width: 150px;
+}
+.home-title {
+  font-size: 30px;
+  font-weight: 700;
+  color: white;
+}
+.home-dark {
+  color: #000000;
+}
+.home-color {
+  background-color: #000000;
+}
